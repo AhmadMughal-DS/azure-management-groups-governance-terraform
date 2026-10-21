@@ -2,8 +2,8 @@
 
 ## Lucid diagram
 
-- **View:** https://lucid.app/lucidchart/f7c2cc20-ac81-4ce8-a026-513e1fdca56e/view
-- **Edit:** https://lucid.app/lucidchart/f7c2cc20-ac81-4ce8-a026-513e1fdca56e/edit
+- **Master Lucid document (all 30 diagrams, icon style):** https://lucid.app/lucidchart/3da75ce3-ea66-4296-81b3-00d20a60435b/edit
+- This project is **page 15** of that document.
 
 ## Lucid prompt (reusable)
 
